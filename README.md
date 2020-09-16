@@ -1,2 +1,2 @@
 # Lotto
-Lotto project initial setup
+Lotto basic setup

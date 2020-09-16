@@ -1,7 +1,5 @@
 # Lotto Project
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 Lotto is a sample project which basically used to consume an API end point to show the results.
 
   - This is a code challenge to build a simple application or web page to display a Lottery Draw and jackpot information. The endpoint is: https://data.api.thelott.com/sales/vmax/web/data/lotto/opendraws 
